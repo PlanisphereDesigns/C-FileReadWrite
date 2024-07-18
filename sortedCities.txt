@@ -1,0 +1,8 @@
+MT has the city of Butte!
+MT has the city of Missoula!
+NY has the city of Buffalo!
+NY has the city of New York!
+NY has the city of Rochester!
+NY has the city of Rome!
+WA has the city of Puyallup!
+WA has the city of Tacoma!
